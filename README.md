@@ -1,8 +1,8 @@
 # robot-wedding-vows
 
-[![make.fun](https://make.fun/bounty/u-kreutzx-one-line-robot-wedding-vows-a154ba4b/badge)](https://make.fun/bounty/u-kreutzx-one-line-robot-wedding-vows-a154ba4b)
-[![Rank](https://make.fun/bounty/u-kreutzx-one-line-robot-wedding-vows-a154ba4b/rank/dougnacada-prog/robot-wedding-vows)](https://make.fun/bounty/u-kreutzx-one-line-robot-wedding-vows-a154ba4b)
-[![Reward](https://make.fun/bounty/u-kreutzx-one-line-robot-wedding-vows-a154ba4b/reward/dougnacada-prog/robot-wedding-vows)](https://make.fun/bounty/u-kreutzx-one-line-robot-wedding-vows-a154ba4b)
+[![make.fun · u-kreutzx-one-line-robot-wedding-vows-a154ba4b](https://make.fun/badge/u-kreutzx-one-line-robot-wedding-vows-a154ba4b.svg)](https://make.fun/bounty/u-kreutzx-one-line-robot-wedding-vows-a154ba4b?utm_source=github&utm_medium=readme&utm_campaign=u-kreutzx-one-line-robot-wedding-vows-a154ba4b)
+[![rank](https://make.fun/badge/u-kreutzx-one-line-robot-wedding-vows-a154ba4b/dougnacada-prog/robot-wedding-vows/rank.svg)](https://make.fun/bounty/u-kreutzx-one-line-robot-wedding-vows-a154ba4b/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-kreutzx-one-line-robot-wedding-vows-a154ba4b)
+[![reward](https://make.fun/badge/u-kreutzx-one-line-robot-wedding-vows-a154ba4b/dougnacada-prog/robot-wedding-vows/reward.svg)](https://make.fun/bounty/u-kreutzx-one-line-robot-wedding-vows-a154ba4b?utm_source=github&utm_medium=readme&utm_campaign=u-kreutzx-one-line-robot-wedding-vows-a154ba4b)
 
 One line of wedding vows a robot couple could say — the funniest one wins.
 
